@@ -267,7 +267,7 @@ objects:
 
 - apiVersion: v1
   data:
-  copy_application_files.sh: |+
+  copy_application_files.sh: |
     #!/bin/bash
 
     if [ ! -d '/ghost-data/content' ]
